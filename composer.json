@@ -1,0 +1,12 @@
+{
+    "name": "yerkomora/api-rest",
+    "description": "Description of project PHP Api Rest.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yerko Mora",
+            "email": "morayerko@gmail.com"
+        }
+    ],
+    "require": {}
+}
